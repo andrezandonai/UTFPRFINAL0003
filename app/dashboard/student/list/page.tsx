@@ -1,3 +1,4 @@
+export const revalidate = 0;
 import { Table, TableBody, TableCell, TableHead, TableHeader, TableRow } from "@/components/ui/table";
 import { sql } from "@vercel/postgres";
 
